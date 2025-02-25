@@ -11,6 +11,7 @@ The application is built using **Streamlit** for the user interface and integrat
 - **app.py**: The main Streamlit application that allows users to select a country, city, and preferences to get personalized travel recommendations.
 - **style.css**: Custom styles to enhance the layout of the Streamlit interface.
 - **data/**: Folder containing pre-processed datasets for different categories (hotels, nature, events, restaurants, tourist attractions, transit, and weather).
+- **travel recommender.zip/**.
 
 ---
 
